@@ -1,0 +1,8 @@
+Colors –
+Purple: #8f12fd
+Grey: #d4d4d4
+Cursor black: #29044a
+
+Sizes –
+Cursor width: 80px
+Shadow: 10px
